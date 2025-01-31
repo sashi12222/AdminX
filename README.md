@@ -1,28 +1,30 @@
 <div align="center">
    <h1>AdminX</h1>
 
-## Installation
+### Run Locally
 
-Install the application dependencies by running:
+Clone the project
 
-```sh
-npm install
+```bash
+  git clone https://github.com/sashi12222/AdminX.git
 ```
 
-## Development
+Go to the project directory
 
-Start the application in development mode by running:
-
-```sh
-npm run dev
+```bash
+  cd my-project
 ```
 
-## Production
+Install dependencies
 
-Build the application in production mode by running:
+```bash
+  npm install
+```
 
-```sh
-npm run build
+Start the server
+
+```bash
+  npm run dev
 ```
 
 ## DataProvider
