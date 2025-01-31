@@ -1,4 +1,4 @@
-# react-admin-dem
+<h1 style="text-align:center">AdminX</h1>
 
 ## Installation
 
